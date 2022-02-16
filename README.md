@@ -6,7 +6,7 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-vitorpessoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)](https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)
-[![Instagram Badge](https://img.shields.io/badge/-vitor.pessoti-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitor.pessoti/)](https://instagram.com/vitor.pessoti)
+[![Instagram Badge](https://img.shields.io/badge/-vitor.pessoti-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitor.pessoti/&target=_blank)](https://instagram.com/vitor.pessoti)
 [![Gmail Badge](https://img.shields.io/badge/-vitorpessoti59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorpessoti59@gmail.com)](mailto:vitorpessoti59@gmail.com)
 <!--
 ## ⚡ Technologies
