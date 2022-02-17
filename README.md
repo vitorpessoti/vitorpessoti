@@ -38,7 +38,7 @@ You can find me through any of these below:
 ![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=black&labelColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=black&labelColor=black)
+![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=black&color=black)
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
