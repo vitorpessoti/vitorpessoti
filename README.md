@@ -35,7 +35,7 @@ You can find me through any of these below:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black&color=black)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket)
-![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=black&color=black)
+![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport)
