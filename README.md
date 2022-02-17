@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am Vitor Pessoti, Full-stack developer from São Paulo, Brazil.
-
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 
 I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
@@ -13,7 +11,7 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 
 ## ⚡Technologies I work with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js)
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vuedotjs)
