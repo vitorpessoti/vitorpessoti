@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
+<!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">  -->
 
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
--->
+I'm Vitor Pessoti, graduated in Computer Science from UNIP - Universidade Paulista (https://www.unip.br/). I'm a Fullstack Developer from São Paulo, Brazil, who is always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with another developers.
+
+You can find me through any of these below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-vitorpessoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)](https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)
 [![Instagram Badge](https://img.shields.io/badge/-vitor.pessoti-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitor.pessoti/&target=_blank)](https://instagram.com/vitor.pessoti)
 [![Gmail Badge](https://img.shields.io/badge/-vitorpessoti59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorpessoti59@gmail.com)](mailto:vitorpessoti59@gmail.com)
+
 
 ## ⚡Technologies I work with:
 
@@ -40,15 +42,17 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) -->
 <!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) -->
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) -->
 <!-- ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) -->
 <!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
-<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact) -->
+
+## 📚 Technologies I'm studying:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vitorpessoti.vitorpessoti)
 
