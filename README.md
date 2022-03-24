@@ -17,6 +17,7 @@ You can find me through any of these below:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-FFFF00?style=flat-square&logo=angular&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
