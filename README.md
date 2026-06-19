@@ -2,7 +2,7 @@
 
 <!-- ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">  -->
 
-I'm Vitor Pessoti, graduated in Computer Science from UNIP - Universidade Paulista (https://www.unip.br/). I'm a Fullstack Developer from São Paulo, Brazil, who is always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with another developers.
+I'm Vitor Pessoti, graduated in Computer Science from UNIP - Universidade Paulista (https://www.unip.br/). I'm a Full-Stack Developer with a strong focus on Backend Engineering. from São Paulo, Brazil, who is always looking for new challenges and new technologies to improve my knowledge. I'm also willing to collaborate on projects with another developers.
 
 You can find me through any of these below:
 
@@ -15,7 +15,6 @@ You can find me through any of these below:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-220052?style=flat-square&logo=adonisjs)
 ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -24,7 +23,6 @@ You can find me through any of these below:
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -42,6 +40,7 @@ You can find me through any of these below:
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
@@ -56,7 +55,7 @@ You can find me through any of these below:
 ## 📚 Technologies I'm studying:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vitorpessoti.vitorpessoti)
