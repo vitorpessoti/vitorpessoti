@@ -7,7 +7,7 @@ I'm Vitor Pessoti, graduated in Computer Science from UNIP - Universidade Paulis
 You can find me through any of these below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-vitorpessoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)](https://www.linkedin.com/in/vitor-pessoti-ba1a37108/)
-[![Instagram Badge](https://img.shields.io/badge/-vitor.pessoti-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitorpessoti_/&target=_blank)](https://instagram.com/vitorpessoti_)
+[![Instagram Badge](https://img.shields.io/badge/-vitorpessoti_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vitorpessoti_/&target=_blank)](https://instagram.com/vitorpessoti_)
 [![Gmail Badge](https://img.shields.io/badge/-vitorpessoti59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorpessoti59@gmail.com)](mailto:vitorpessoti59@gmail.com)
 
 
